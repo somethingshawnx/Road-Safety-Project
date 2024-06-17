@@ -3,6 +3,16 @@
 Preparing data for visualization involves several key steps: cleaning the data to eliminate irrelevant or missing information, transforming it into a visualization-friendly format, exploring the data to uncover patterns and trends, filtering it to concentrate on specific subsets, and ensuring it is accurate and complete for use with visualization software. These steps collectively help make the data more comprehensible and ready for creating insightful visualizations.The data is preprocessed using Qlik platform. Various functions are directly available on the platform that can be directly applied to platform.
 # Pre processed Dataset Link
 
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f7d9529d271369ea6169
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f9df627669741c961ad0
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f9be96efc118aaede64e
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f95096efc118aaede5eb
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f911529d271369ea6223
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f8f396efc118aaede595
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f8cd96efc118aaede578
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f88a627669741c9619cb
+https://e2r6v1en56xtnwn.sg.qlikcloud.com/dataset/6657f84196efc118aaede51a
+
 # Visualizations
 To prepare data for visualization, one must clean the data by removing irrelevant or missing entries, transform it into a format suitable for visualization, explore it to identify patterns and trends, filter it to focus on specific subsets, and prepare it for use with visualization software. Ensuring the data's accuracy and completeness is crucial. This process helps make the data easily understandable and ready for creating visualizations to gain insights.
 

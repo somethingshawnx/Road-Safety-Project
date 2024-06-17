@@ -1,4 +1,4 @@
-![image](https://github.com/somethingshawnx/Road-Safety-Project/assets/127673207/3ab7a51a-19da-4bf8-ac6d-537a4bad6855)# Road-Safety-Project
+# Road-Safety-Project
 # Preprocessed Data
 Preparing data for visualization involves several key steps: cleaning the data to eliminate irrelevant or missing information, transforming it into a visualization-friendly format, exploring the data to uncover patterns and trends, filtering it to concentrate on specific subsets, and ensuring it is accurate and complete for use with visualization software. These steps collectively help make the data more comprehensible and ready for creating insightful visualizations.The data is preprocessed using Qlik platform. Various functions are directly available on the platform that can be directly applied to platform.
 # Pre processed Dataset Link
